@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Greece
     description: "Greece Government Open Data"
     humanURL: https://data.gov.gr/
-    baseURL: https://data.gov.gr/
     tags:
       - Government
     properties:
